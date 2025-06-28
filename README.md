@@ -39,23 +39,6 @@ As you eat food, your snake will grow longer, and your score will increase.
 
 When the snake collides with the wall or its tail, the game ends.
 
-🧠 Sample Gameplay
-=======================
-SCORE: 5  HIGH SCORE: 10
-=======================
-
-Type 'w' to go up, 'a' to go left, 's' to go down, 'd' to go right
-
-Move the snake around to eat the food.
-Avoid hitting the wall or your own body!
-
-Game Over! You hit the wall!
-Final Score: 5
-=======================
-📸 Screenshots
-
-(Add a screenshot of the game here)
-
 🧩 Future Enhancements
 🎨 Add different levels with varying difficulty (e.g., faster snake, more obstacles).
 
